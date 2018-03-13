@@ -4,7 +4,8 @@
 //
 //  Created by Maximilian Karl on 14.03.18.
 //  Copyright © 2018 Robot. All rights reserved.
-//
+//  Date:       Autor:          Topic:
+//  12.03.18    Jo              Initial
 
 import UIKit
 

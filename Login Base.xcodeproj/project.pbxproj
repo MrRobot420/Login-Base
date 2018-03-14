@@ -15,6 +15,7 @@
 		543B15182058913500D2A44F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 543B15162058913500D2A44F /* LaunchScreen.storyboard */; };
 		543B15232058913500D2A44F /* Login_BaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543B15222058913500D2A44F /* Login_BaseTests.swift */; };
 		543B152E2058913500D2A44F /* Login_BaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543B152D2058913500D2A44F /* Login_BaseUITests.swift */; };
+		5496636A2058A7F400EC85E2 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549663692058A7F400EC85E2 /* LoginScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		543B15292058913500D2A44F /* Login BaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Login BaseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		543B152D2058913500D2A44F /* Login_BaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login_BaseUITests.swift; sourceTree = "<group>"; };
 		543B152F2058913600D2A44F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		549663692058A7F400EC85E2 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				543B150A2058913500D2A44F /* AppDelegate.swift */,
 				543B150C2058913500D2A44F /* ViewController.swift */,
+				549663692058A7F400EC85E2 /* LoginScreen.swift */,
 				543B150E2058913500D2A44F /* Main.storyboard */,
 				543B15142058913500D2A44F /* Assets.xcassets */,
 				543B15162058913500D2A44F /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				543B150D2058913500D2A44F /* ViewController.swift in Sources */,
+				5496636A2058A7F400EC85E2 /* LoginScreen.swift in Sources */,
 				543B150B2058913500D2A44F /* AppDelegate.swift in Sources */,
 				543B15132058913500D2A44F /* Login_Base.xcdatamodeld in Sources */,
 			);

@@ -43,7 +43,7 @@
         <!--RegisterView-->
         <scene sceneID="LCi-fo-wtB">
             <objects>
-                <viewController title="RegisterView" id="d8X-lQ-WHN" sceneMemberID="viewController">
+                <viewController title="RegisterView" id="d8X-lQ-WHN" customClass="Registration" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="PUg-3H-745">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

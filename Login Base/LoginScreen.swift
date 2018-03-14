@@ -17,6 +17,10 @@ class LoginScreen: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
+    @IBOutlet weak var usernameEntry: UITextField!
+    @IBOutlet weak var passEntry: UITextField!
+    @IBAction func EnterButton(_ sender: UIButton) {
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
